@@ -1,4 +1,4 @@
 # ciTuto
-Tutoriau sus l'integracion continuda
+Tutorial sur l'integration continue
 
-totas las tastas passaven
+tous les test passent
